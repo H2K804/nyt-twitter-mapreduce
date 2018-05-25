@@ -59,6 +59,4 @@ Sort and output.
 # NYtimes Article data Word Cloud
  ![alt tag](nytWC.png)
 
-# Nytimes Article Word Co-occurence
-![alt tag](nytimesCooccure.png)
 
